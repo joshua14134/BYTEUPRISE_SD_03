@@ -19,10 +19,4 @@ The **Temperature Converter** is a Java-based command-line application designed 
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Installation
-
-1. **Clone the repository** or download the source code:
-   ```bash
-   git clone https://github.com/joshua14134/temperature-converter.git
-   cd temperature-converter
+- 
